@@ -3,3 +3,8 @@ SHAILY MUKARUNG
 To learn Web Development
 To learn about Git and Github
 To learn about project management
+
+I learned how to setup Git in a windows machine
+I learned about basic Git commands.
+I learned how to create repository and add local files into that repository
+I learned how to add specific files and wrtie a commit message
